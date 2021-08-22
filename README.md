@@ -6,3 +6,7 @@ URL: cdn.oinam.com
 
 Updated and regularly used digital assets by Oinam Online Properties.
 Needs to be globally distributed and highly available.
+
+List Git-LFS
+
+$ git lfs ls-files --all
