@@ -11,7 +11,7 @@ List Git-LFS
 
 $ git lfs ls-files --all
 
-## Netlify / Cloudflare
+## Cloudflare
 
 SiteName > Site settings > Build & deploy > Environment
 
