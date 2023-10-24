@@ -19,5 +19,7 @@ Click the "Edit variables" and set "GIT_LFS_ENABLED" as key and "true" as value.
 
 ## Powered by
 
+([Render](https://render.com) is a also good alternative to consider.)
+
 - 2020-2021: Netlify
 - 2022-20xx: Cloudflare Pages
