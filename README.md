@@ -1,9 +1,8 @@
 # Oinam CDN
 
-URL: cdn.oinam.com
+URL: `cdn.oinam.com`
 
-Updated and regularly used digital assets by Oinam Online Properties.
-Needs to be globally distributed and highly available.
+> Updated and regularly used digital assets by Oinam online properties. Needs to be globally distributed and highly available.
 
 ## Git
 
@@ -22,4 +21,4 @@ Click the "Edit variables" and set "GIT_LFS_ENABLED" as key and "true" as value.
 ([Render](https://render.com) is a also good alternative to consider.)
 
 - 2020-2021: Netlify
-- 2022-20xx: Cloudflare Pages
+- 2022-20xx: Github > Cloudflare Pages
